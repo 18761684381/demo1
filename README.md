@@ -1,2 +1,2 @@
 hello git
-add dev
+add dev too
